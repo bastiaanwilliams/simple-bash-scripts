@@ -40,6 +40,8 @@ A collection of simple Bash scripts.
 1. [RemoteBackup.sh](scripts/remotebackup.sh): backup a local file into a remote server
 1. [HardwareInfo.sh](scripts/hardware_machine.sh): show hardware information for systems Linux 
 1. [Get-Temperature.sh](scripts/get-temperature.sh): show CPU temperature
+1. [Password_Generator.sh](scripts/password_generator.sh): generate random passwords. Direct to terminal or file.
+
 
 ## Math
 
